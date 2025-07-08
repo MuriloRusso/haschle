@@ -1,3 +1,7 @@
 header{
-    
+    background-color: #020087;
+    padding: 5px 0;
+}
+header p{
+    color: #fff;
 }

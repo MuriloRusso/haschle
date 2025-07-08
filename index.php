@@ -8,6 +8,6 @@
     ?>
 </head>
 <body>
-    <h1>teste</h1>
+    <?php include('./public/includes/header.php'); ?>
 </body>
 </html>
