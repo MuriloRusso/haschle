@@ -8,6 +8,9 @@
     ?>
 </head>
 <body>
-    <?php include('./public/includes/header.php'); ?>
+    <?php
+        include('./public/includes/header.php'); 
+        include('./public/includes/main.php'); 
+    ?>
 </body>
 </html>

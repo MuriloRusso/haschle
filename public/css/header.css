@@ -2,6 +2,9 @@ header{
     background-color: #020087;
     padding: 5px 0;
 }
+header div{
+    gap: 30px;
+}
 header p{
     color: #fff;
 }
