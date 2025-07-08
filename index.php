@@ -12,5 +12,13 @@
         include('./public/includes/header.php'); 
         include('./public/includes/main.php'); 
     ?>
+    <section id="banner">
+
+    </section>
+    <section id="content">
+
+    </section>
+
+    <?php include('./public/includes/footer.php');?>
 </body>
 </html>

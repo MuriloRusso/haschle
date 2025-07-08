@@ -1,5 +1,6 @@
 @import url("header.css");
 @import url("main.css");
+@import url("footer.css");
 
 
 *{
@@ -37,4 +38,14 @@ body{
 }
 .justify-content-between{
     justify-content: space-between;
+}
+
+
+#banner{
+    min-height: 500px;
+    background-color: #D1D1D1;
+}
+#content{
+    min-height: 100vh;
+    background-color: #fff;
 }

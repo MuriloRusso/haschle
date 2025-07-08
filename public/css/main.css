@@ -57,3 +57,8 @@ main img{
     display: none;
 }
 
+@media (max-width: 776px){
+    #menu{
+        display: none;
+    }
+}
