@@ -30,15 +30,26 @@
     font-size: 30px;
     color: #868686;
 }
-#menu-mobile ul li{
+#menu-mobile ul li a{
     border-bottom: 1px solid #ccc;
     padding: 15px 25px;
     list-style: none;
+    display: block;
 }
 
 
 #menu-mobile ul li ul, #menu-mobile ul li ul li ul{
     display: none;
+    position: absolute;
+    background-color: #020087;
+    margin-left: 15px;
+    list-style: none;
+}
+#menu-mobile ul li ul li a, #menu-mobile ul li ul li ul li a{
+    color: #fff;
+}
+#menu-mobile ul li ul.open, #menu-mobile ul li ul li ul.open{
+    display: block;
 }
 
 
@@ -47,6 +58,10 @@
     text-decoration: none;
 }
 
+
+#menu-mobile ul li:hover > ul{
+    display: block;
+}
 
 @media (max-width: 776px){
     #menu-mobile, #menu-mobile-open-button{

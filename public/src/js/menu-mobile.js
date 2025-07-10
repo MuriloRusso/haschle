@@ -9,3 +9,11 @@ menuMobileOpenButton.addEventListener('click', function(e){
 menuMobileCloseButton.addEventListener('click', function(e){
     menuMobile.classList.remove('open');
 })
+
+// const menuItens = document.querySelectorAll('#menu-mobile li');
+
+// menuItens.forEach((item) => {
+//   item.addEventListener('click', function () {
+//     item.querySelector('ul').classList.toggle('open');
+//   });
+// });
