@@ -73,3 +73,12 @@ body{
         text-align: left !important;
     }
 }
+
+
+.splide__slide{
+    width: 100% !important;
+}
+
+.splide__slide img{
+    width: 100% !important;
+}
