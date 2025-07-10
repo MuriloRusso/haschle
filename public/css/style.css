@@ -15,7 +15,7 @@
     font-variation-settings: "wdth" 100;
 }
 body{
-    background-color: antiquewhite;
+    background-color: #D1D1D1;
 }
 
 .container{
@@ -58,7 +58,10 @@ body{
 
 #banner{
     min-height: 500px;
-    background-color: #D1D1D1;
+}
+#banner img{
+    object-fit: cover;
+    object-position: center;
 }
 #content{
     background-color: #fff;

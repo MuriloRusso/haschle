@@ -17,13 +17,14 @@
             <div class="splide__track">
                 <ul class="splide__list" style="height: 500px">
                     <li class="splide__slide"><img src="./public/src/img/banner/img-1.jpg" alt="Imagem 1" style="height: 100%" /></li>
-                    <li class="splide__slide"><img src="img2.jpg" alt="Imagem 2" /></li>
-                    <li class="splide__slide"><img src="img3.jpg" alt="Imagem 3" /></li>
+                    <li class="splide__slide"><img src="./public/src/img/banner/img-2.jpg" alt="Imagem 2" /></li>
+                    <li class="splide__slide"><img src="./public/src/img/banner/img-3.jpg" alt="Imagem 3" /></li>
                 </ul>
             </div>
         </div>
-
     </section>
+
+    
     <section id="content">
 
         <article id="feature">
@@ -40,7 +41,7 @@
                     <p>dashdhusaahu hsuah dusahud asuhud ashd asuhud shuahd ashudhusa hdhuhuasu dasuid asih</p>
                     <p>Obrigado e boa socket_read</p>
                 </div>
-                <img src="#" alt="">
+                <img src="./public/src/img/feature.jpg" alt="">
             </div>
         </article>
 
@@ -49,22 +50,22 @@
 
             <div class="d-flex flex-wrap justify-content-center justify-content-md-between featured-boxes-container">
                 <div class="card">
-                    <img src="#" alt="">
+                    <img src="./public/src/img/banner/img-1.jpg" alt="">
                     <a href="#">Um texto descritivo com link apenas</a>
                 </div>
 
                 <div class="card">
-                    <img src="#" alt="">
+                    <img src="./public/src/img/banner/img-2.jpg" alt="">
                     <a href="#">Um texto descritivo com link apenas</a>
                 </div>
 
                 <div class="card">
-                    <img src="#" alt="">
+                    <img src="./public/src/img/banner/img-3.jpg" alt="">
                     <a href="#">Um texto descritivo com link apenas</a>
                 </div>
 
                 <div class="card">
-                    <img src="#" alt="">
+                    <img src="./public/src/img/feature.jpg" alt="">
                     <a href="#">Um texto descritivo com link apenas</a>
                 </div>
             </div>

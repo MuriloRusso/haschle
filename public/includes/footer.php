@@ -21,16 +21,9 @@
 
 
 <!-- <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script> -->
- <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    new Splide('#image-carousel', {
-      type: 'loop',
-      perPage: 3,
-      autoplay: true,
-    }).mount();
-  });
-</script>
 
+
+<script src="./public/src/js/splideJs.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
 
 <script src="./public/src/js/menu-mobile.js"></script>

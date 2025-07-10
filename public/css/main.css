@@ -4,9 +4,7 @@ main{
 }
 
 main img{
-    /* background-color: blue; */
-    /* width: 280px; */
-    height: 100px;
+    height: 70px;
     object-fit: contain;
 }
 

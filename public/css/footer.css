@@ -1,6 +1,7 @@
 footer{
     background-color: #454545;
     padding: 20px 0;
+    min-height: 300px;
 }
 
 #menu-footer{
