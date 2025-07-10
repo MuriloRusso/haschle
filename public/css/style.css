@@ -1,8 +1,9 @@
 @import url("header.css");
 @import url("main.css");
 @import url("menu-mobile.css");
-@import url("boxes.css");
+@import url("banner.css");
 @import url("feature.css");
+@import url("boxes.css");
 @import url("footer.css");
 
 
@@ -56,19 +57,19 @@ body{
     padding: 50px 0;
 }
 
-#banner{
-    min-height: 500px;
-}
-#banner img{
-    object-fit: cover;
-    object-position: center;
-}
+
 #content{
     background-color: #fff;
 }
 
+.col-full{
+    max-width: 100%;
+}
 
 @media (min-width: 776px){
+    .col-md-terco{
+        max-width: 66.33333% !important;
+    }
     .justify-content-md-between{
         justify-content: space-between !important;
     }

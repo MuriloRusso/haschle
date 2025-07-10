@@ -1,11 +1,16 @@
 #feature{
-    padding: 5px 0 0 0;
+    /* padding: 5px 0 0 0; */
     color: #868686;
 }
+
 #feature div div{
     display: flex;
     flex-direction: column;
     gap: 10px;
+    padding: 10px 0 0 0;
+}
+#feature div div h2, #feature div div p, #feature div div li{
+    padding: 10px 0 0 0;
 }
 #feature div div ul{
     padding-left: 20px;
@@ -14,5 +19,5 @@
     width: 400px;
     height: 300px;
     object-fit: cover;
-    background-color: blue;
+    padding: 10px 0 0 0;
 }
