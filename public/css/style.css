@@ -1,5 +1,6 @@
 @import url("header.css");
 @import url("main.css");
+@import url("menu-mobile.css");
 @import url("boxes.css");
 @import url("feature.css");
 @import url("footer.css");
@@ -60,7 +61,6 @@ body{
     background-color: #D1D1D1;
 }
 #content{
-    min-height: 100vh;
     background-color: #fff;
 }
 
