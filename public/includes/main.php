@@ -1,6 +1,6 @@
 <main>
     <div class="container d-flex justify-content-between">
-        <img src="" alt="">
+        <img src="./public/src/img/logo.png" alt="Logo">
         <nav id="menu">
             <ul>
                 <li>

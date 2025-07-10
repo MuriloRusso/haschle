@@ -1,0 +1,18 @@
+#feature{
+    padding: 5px 0 0 0;
+    color: #868686;
+}
+#feature div div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+#feature div div ul{
+    padding-left: 20px;
+}
+#feature img{
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    background-color: blue;
+}
